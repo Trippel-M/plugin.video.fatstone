@@ -2,7 +2,7 @@
 <addon id="plugin.video.fatstone"
        name="Fatstone.TV"
        version="1.0.0"
-       provider-name="trippelm">
+       provider-name="trippel-m">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.requests" version="1.0.4"/>
